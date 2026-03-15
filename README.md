@@ -25,19 +25,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=maheshgoyal-sys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshgoyal-sys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maheshgoyal-sys&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-## 🏆 LeetCode Stats
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Mahesh_Goyal_1_&theme=dark&show_icons=true)](https://leetcode.com/u/Mahesh_Goyal_1_/)
-
-[![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=Mahesh_Goyal_1_&theme=dark)](https://leetcode.com/u/Mahesh_Goyal_1_/)
-
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=maheshgoyal-sys&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
