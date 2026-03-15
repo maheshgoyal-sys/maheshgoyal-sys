@@ -32,6 +32,7 @@
 
 ## 🏆 LeetCode Stats
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Mahesh_Goyal_1_&theme=dark&show_icons=true)](https://leetcode.com/u/Mahesh_Goyal_1_/)
+
 [![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=Mahesh_Goyal_1_&theme=dark)](https://leetcode.com/u/Mahesh_Goyal_1_/)
 
 ---
