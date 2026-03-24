@@ -9,11 +9,10 @@
 
 <!-- ANIMATED TYPING — FINAL YEAR ENERGY -->
 <br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&width=750&height=50&lines=🎓+B.Tech+Final+Year+%7C+CSE+Student;⚡+Mastering+DSA+in+Java+%7C+LeetCode+Grinder;🚀+Building+Projects+%7C+Open+Source+Contributor;💡+Exploring+Algorithms+%26+Optimization;🔭+Looking+for+SDE+Internship+%2F+Placement;🧠+Code.+Debug.+Deploy.+Repeat.;📡+Connecting+Ideas+to+Reality+—+One+Commit+at+a+Time" alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&width=750&height=50&lines=B.Tech+Final+Year+CSE+Student;Mastering+DSA+in+Java+%7C+LeetCode+Grinder;Building+Projects+%7C+Open+Source+Contributor;Exploring+Algorithms+and+Optimization;Looking+for+SDE+Internship+%2F+Placement;Code.+Debug.+Deploy.+Repeat.;Connecting+Ideas+to+Reality+-+One+Commit+at+a+Time" />
+</p>
+<br/>
 
 <!-- ANIMATED STATUS BADGES -->
 <img src="https://img.shields.io/badge/🎓%20FINAL%20YEAR-B.Tech%20CSE-00f5d4?style=for-the-badge&labelColor=03001C" />
@@ -36,14 +35,9 @@
 <!-- CONTRIBUTION SNAKE ON ACTUAL GRAPH -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshgoyal-sys/maheshgoyal-sys/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshgoyal-sys/maheshgoyal-sys/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/maheshgoyal-sys/maheshgoyal-sys/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `SYSTEM.init()`
@@ -151,11 +145,6 @@ impl Developer {
 
 ---
 
-## 🏆 `TROPHIES.unlock()`
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=maheshgoyal-sys&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7&title=Stars,Commits,Repositories,Followers,Issues,PullRequest,Reviews" />
-</div>
 
 ---
 
